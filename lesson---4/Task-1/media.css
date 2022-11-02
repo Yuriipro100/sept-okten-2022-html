@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px){
+    .first{
+        height: 30%;
+    }
+    .second{
+        width: 100%;
+        height: 35%;
+    }
+    .third{
+        width: 100%;
+        height: 35%;
+    }
+}

@@ -1,0 +1,27 @@
+body{
+    background: darkorange;
+}
+.header{
+    background: yellow;
+    color: orange;
+}
+.span   {
+    background: aqua;
+    color: darkorange;
+}
+h2{
+    background: dimgrey;
+    color: orange;
+}
+.text{
+    background: antiquewhite;
+    color: darkorange;
+}
+.text-2{
+    background: bisque;
+    color: darkorange;
+}
+.text-3{
+    color: pink ;
+    background: white;
+}

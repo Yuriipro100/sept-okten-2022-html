@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: grey;
+}
+.container{
+    width: 100%;
+    height: 100&;
+
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    background: darkorange;
+    display: flex;
+    justify-content: space-between;
+}
+.area{
+    width: 10%;
+    height: 30px;
+    background: red;
+    box-sizing: border-box;
+    margin-left: 5%;
+    margin-top: 13px;
+}
+.icons{
+    box-sizing: border-box;
+    margin-top: 13px;
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.block{
+    width: 100%;
+    height: 400px;
+    background: aqua;
+
+}
+.group{
+    width: 100%;
+    height: 300px;
+    background: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    position: relative;
+
+
+}
+.child{
+    width: 150px;
+    height:150px;
+    background: darkblue;
+    position: relative;
+    margin-top: -300px;
+
+
+
+
+}
